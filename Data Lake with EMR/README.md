@@ -1,5 +1,5 @@
 # Summary Discription:
-This project try to build schema an ETL pipeline for a database hosted on AWS S3 bucket.\
+This project try to build a schema and ETL pipeline for a database hosted on AWS S3 bucket.\
 building an ETL pipeline that extracts their data from S3, processes them using Spark,
 and\
 loads the data back into S3 as a set of dimensional tables.
