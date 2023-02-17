@@ -1,1 +1,2 @@
-Executing data engineering projects related to Udacity course
+Executing data engineering projects related to Udacity course and others
+
