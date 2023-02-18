@@ -10,7 +10,6 @@ from airflow.utils.dates import days_ago
 
 #defining DAG arguments
 
-# You can override them on a per-task basis during operator initialization
 default_args = {
     'owner': 'Ramesh Sannareddy',
     'start_date': days_ago(0),
@@ -23,7 +22,7 @@ default_args = {
 
 # defining the DAG
 
-# define the DAG
+
 dag = DAG(
     'ETL_Server_Access_Log_Processing',
     default_args=default_args,
