@@ -9,3 +9,8 @@
 ### Create a topic named toll in kafka.
 ### Customize the producer and consumer program to write into a MySQL database table.
 ### Verify that streamed data is being collected in the database table.
+
+# Showing result:
+### the producer writing to the topic --> ![]()
+### the ci=onsumer read from topic --> ![]()
+### showing some result from our database --> ![]()
