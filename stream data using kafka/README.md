@@ -11,6 +11,6 @@
 ### Verify that streamed data is being collected in the database table.
 
 # Showing result:
-### the producer writing to the topic --> ![]()
-### the ci=onsumer read from topic --> ![]()
-### showing some result from our database --> ![]()
+### the producer writing to the topic --> ![producer](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/producer.png)
+### the ci=onsumer read from topic --> ![consumer](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/consumer.png)
+### showing some result from our database --> ![inserting into database](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/mysqlwithkafka.png)
