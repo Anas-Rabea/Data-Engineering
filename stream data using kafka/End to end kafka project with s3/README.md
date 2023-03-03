@@ -2,7 +2,7 @@
 ### Executing an End-To-End Data Engineering Project on Real-Time Data using Kafka and different technologies such as Python, Amazon Web Services (AWS).
 
 # Project Steps:
-#### 1 - Create AWS account. 
+#### 1 - Create AWS account and IAM user. 
 #### 2 - Launch EC2 machine (AWS Linux) with S3FullAccess role and create a Bucket.
 #### 3 - Connect to the ec2 machine using ssh after editing the inbound role to All traffic .
 #### 4 - download the kafka and install java openjdk.
