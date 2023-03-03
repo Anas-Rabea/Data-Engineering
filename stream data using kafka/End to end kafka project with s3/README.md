@@ -12,6 +12,7 @@
 #### 8 - Create consumer.py, producer.py file to simulate the stream data ingestion.
 #### 9 - Upload data to S3 directly or save locally then upload using boto3 and s3fs.
 
-
+Architecture 
+![arch](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20kafka%20project%20with%20s3/arch.png)
 
 
