@@ -6,9 +6,19 @@
   
   
 # Some tasks needs to be done first:
-### Create a topic named toll in kafka.
-### Customize the producer and consumer program to write into a MySQL database table.
-### Verify that streamed data is being collected in the database table.
+#### 1- Start a MySQL Database server.
+#### 2- Create a table to hold the toll data.
+#### 3- Start the Kafka server.
+#### 4- Install the Kafka python driver.
+#### 5- Install the MySQL python driver.
+#### 6- Create a topic named toll in kafka.
+#### 7- Download streaming data generator program.
+#### 8- Customize the generator program to steam to toll topic.
+#### 9- Download and customise streaming data consumer.
+#### 10- Customize the consumer program to write into a MySQL database table.
+#### 11- Verify that streamed data is being collected in the database table.
+
+
 
 # Showing result:
 ### the producer writing to the topic
