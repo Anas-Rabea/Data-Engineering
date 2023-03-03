@@ -19,4 +19,4 @@
 <img src = "producer_consumer.png">
 
 ## S3 bucket after uploading
-<img src = "s3bucket">
+<img src = "s3bucket.png">
