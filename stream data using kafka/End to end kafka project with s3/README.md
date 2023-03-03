@@ -15,8 +15,8 @@
 ## Architecture 
 <img src="arch.png">
 
+## Producer and Consumer Interaction
+<img src = "producer_consumer.png">
 
-Architecture 
-![arch](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20kafka%20project%20with%20s3/arch.png)
-
-
+## S3 bucket after uploading
+<img src = "s3bucket">
