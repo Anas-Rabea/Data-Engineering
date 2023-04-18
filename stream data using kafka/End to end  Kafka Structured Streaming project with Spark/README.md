@@ -8,6 +8,7 @@ This is a project that demonstrates how to consume data from Kafka using PySpark
 - [Running the Application](#running_the_application)
 - [Project Structure](#project_structure)
 - [Dependencies](#running_the_application)
+- [Results](#results)
 
 ## Getting Started
 
@@ -66,29 +67,20 @@ bin/kafka-console-producer.sh --broker-list localhost:9092 --topic st-topic
 
 The project consists of the following files:
 
-1- 'main.py': This is the main PySpark application that reads data from Kafka and performs data processing.
-README.md: This file.
-requirements.txt: A list of Python dependencies required by the project.
+1- spark_application.py: This is the main PySpark application that reads data from Kafka, performs data processing and write stream on console.
+
+2- README.md: This file decribe the project summary, structure and dependencies.
+
+3- producer.py: A simulation for producing stream data using python.
+
 ## Dependencies
 
-This project is licensed under the [name of license] license. See the [LICENSE](LICENSE) file for details.
+The project requires the following dependencies:
 
+- Kafka
+- PySpark
+- Java
 
+## Results
 
-
-
-
-
-
-
-
-
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
-![Screenshot of ......](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of ]()
