@@ -83,4 +83,7 @@ The project requires the following dependencies:
 
 ## Results
 
-![Screenshot of ]()
+![Screenshot of kafka source data]()
+![Screenshot of kafka data being processed]()
+![Screenshot of kafka data outputs]()
+
