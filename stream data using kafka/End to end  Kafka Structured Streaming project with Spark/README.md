@@ -73,11 +73,11 @@ bin/kafka-console-consumer.sh --broker-list localhost:9092 --topic test-topic --
 
 The project consists of the following files:
 
-1- spark_application.py: This is the main PySpark application that reads data from Kafka, performs data processing and write stream on console.
+1- [spark_application.py](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/spark_application.ipynb): This is the main PySpark application that reads data from Kafka, performs data processing and write stream on console.
 
-2- README.md: This file decribe the project summary, structure and dependencies.
+2- [README.md](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/README.md): This file decribe the project summary, structure and dependencies.
 
-3- producer.py: A simulation for producing stream data using python.
+3- [producer.py](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/producer.ipynb): A simulation for producing stream data using python.
 
 ## Dependencies
 
