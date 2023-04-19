@@ -8,7 +8,7 @@ This is a project that demonstrates how to consume data from Kafka using PySpark
 - [Running the Application](#running_the_application)
 - [Project Structure](#project_structure)
 - [Dependencies](#running_the_application)
-- [Results](#results)
+- [Screenshots](#screenshots)
 
 ## Getting Started
 
@@ -81,10 +81,11 @@ The project requires the following dependencies:
 - PySpark
 - Java
 
-## Results
+## Screenshots
 
 ![Screenshot of kafka source data from simulator producer](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/dataproducer.png)
+kafka source data from simulator producer
 ![Screenshot of kafka source data after encoding](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/kafkasourcedata.png)
 ![Screenshot of kafka data being processed](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/processeddata.png)
-![Screenshot of kafka data outputs]()
+![Screenshot of kafka data outputs](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/results.png)
 
