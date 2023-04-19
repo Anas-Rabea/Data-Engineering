@@ -88,15 +88,15 @@ The project requires the following dependencies:
 - Java
 
 ## Screenshots
-- kafka source data from simulator producer
+- kafka data from simulator producer
 
 ![Screenshot of kafka data from simulator producer](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/dataproducer.png)
-- kafka source data after encoding
+- kafka data after encoding
 
 ![Screenshot of kafka data after encoding](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/kafkasourcedata.png)
 - kafka data being deserialized and processed
 
 ![Screenshot of kafka data being processed](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/processeddata.png)
-- kafka data target after filteration and aggregation
+- kafka data outputd after filteration and aggregation
 
 ![Screenshot of kafka data outputs](https://github.com/Anas-Rabea/Data-Engineering/blob/main/stream%20data%20using%20kafka/End%20to%20end%20%20Kafka%20Structured%20Streaming%20project%20with%20Spark/results.png)
