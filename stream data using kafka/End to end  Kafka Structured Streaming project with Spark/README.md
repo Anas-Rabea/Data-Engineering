@@ -51,15 +51,21 @@ To run the example application, follow the steps below:
 
 2- Create a Kafka topic by running the following command:
 ```
-bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --topic st-topic
+bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --topic test-topic
 
 ```
 3- Start producing messages to the Kafka topic by running the following command:
 ```
-bin/kafka-console-producer.sh --broker-list localhost:9092 --topic st-topic
+bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test-topic
 
 ```
  or we can use kafka-python module to do same task.
+ 
+ 4- Start consuming messages to the Kafka topic by running the following command:
+```
+bin/kafka-console-consumer.sh --broker-list localhost:9092 --topic test-topic --from-beginning
+
+```
 
 
 
